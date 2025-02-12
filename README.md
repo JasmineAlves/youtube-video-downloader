@@ -10,7 +10,7 @@ Script em Python que utiliza a biblioteca `pytubefix` para baixar vídeos do You
 - Python (versão 3.6 ou superior)
 - Biblioteca `pytubefix` instalada na máquina. 
 
-Caso ainda não tenha a biblioteca pytubefix instalada, utilize o seguinte comando para instalá-la:
+Caso ainda não tenha a biblioteca `pytubefix` instalada, utilize o seguinte comando para instalá-la:
 
     pip install pytubefix
 
